@@ -15,7 +15,17 @@ Introduction to Azure Infrastructure Services
 
 ## Azure Overview
 
-Deliver from deck Delivery Ready IP\IaaS Fundamentals\FTA - Azure Overview.pptx
+### What is cloud computing?
+
+Simply put, cloud computing is the delivery of computing services—servers, storage, databases, networking, software, analytics, and more—over the Internet (“the cloud”). Companies offering these computing services are called cloud providers and typically charge for cloud computing services based on usage, similar to how you’re billed for water or electricity at home.
+
+Go through [What is cloud computing?](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/) and talk about the following topics:
+* Top benefits of cloud computing
+* Types of cloud services: [IaaS](https://azure.microsoft.com/en-us/overview/what-is-iaas/), [PaaS](https://azure.microsoft.com/en-us/overview/what-is-paas/), [SaaS](https://azure.microsoft.com/en-us/overview/what-is-saas/)
+* Types of cloud deployments: public, private, hybrid
+
+
+### What is Azure?
 
 
 ## Azure Services
