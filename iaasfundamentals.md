@@ -1,8 +1,8 @@
 # IaaS Fundamentals
 
 ## Agenda
-* [Azure Overview](##AzureOverview)
-* [Azure Services](##AzureServices)
+* [Azure Overview](#azure-overview)
+* [Azure Services](#azure-services)
 * [Core IaaS Services]
 * [Resource Manager]
 * [Storage]
