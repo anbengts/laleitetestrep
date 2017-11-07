@@ -50,6 +50,18 @@ Explore Azure main pillars:
 * [Trusted](https://azure.microsoft.com/en-us/overview/trusted-cloud/)
 
 
+### Azure regions
+
+> **SHOW** [Azure regions](https://azure.microsoft.com/en-us/regions/) 
+
+> *Navigation*: https://azure.com > *scroll down to the end of the page* > [Regions](https://azure.microsoft.com/en-us/regions/) 
+
+Azure is generally available in 36 regions around the world, with plans announced for 6 additional regions. We place a high priority on geographic expansion to enable higher performance, and to support your requirements and preferences regarding data location.
+
+Explore the following:
+* Map with regions available and coming soon
+* Products available by region ([Explore products per region](https://azure.microsoft.com/en-us/regions/))
+
 ## Azure Services
 
 
