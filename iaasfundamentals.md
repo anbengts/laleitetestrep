@@ -15,7 +15,8 @@ Introduction to Azure Infrastructure Services
 
 ## Azure Overview
 
-> **SHOW** [Azure website](https://azure.microsoft.com/en-us/)
+> **SHOW** [azure.com](https://azure.microsoft.com/en-us/)
+> Navigation: https://azure.com (if needed change language at bottom of the page)
 
 ### What is cloud computing?
 
