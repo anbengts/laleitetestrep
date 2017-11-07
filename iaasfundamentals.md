@@ -15,12 +15,16 @@ Introduction to Azure Infrastructure Services
 
 ## Azure Overview
 
-> **SHOW** [azure.com](https://azure.microsoft.com/en-us/)
-> Navigation: https://azure.com (if needed change language at bottom of the page)
+> **SHOW** [Azure website](https://azure.microsoft.com/en-us/)
+
+> *Navigation*: https://azure.com (if needed change language at the bottom of the page)
+
 
 ### What is cloud computing?
 
 > **SHOW** [What is cloud computing?](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
+
+> *Navigation*: https://azure.com > Why Azure > What is Azure > *scroll down* > [What is cloud computing?](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
 
 Simply put, cloud computing is the delivery of computing services—servers, storage, databases, networking, software, analytics, and more—over the Internet (“the cloud”). Companies offering these computing services are called cloud providers and typically charge for cloud computing services based on usage, similar to how you’re billed for water or electricity at home.
 
@@ -34,9 +38,12 @@ On [What is cloud computing?](https://azure.microsoft.com/en-us/overview/what-is
 
 > **SHOW** [What is Azure?](https://azure.microsoft.com/en-us/overview/what-is-azure/) 
 
+> *Navigation*: https://azure.com > Why Azure > [What is Azure?](https://azure.microsoft.com/en-us/overview/what-is-azure/) 
+
 Azure is a comprehensive set of cloud services that developers and IT professionals use to build, deploy, and manage applications through our global network of datacenters. Integrated tools, DevOps, and a marketplace support you in efficiently building anything from simple mobile apps to internet-scale solutions.
 
-> **SHOW** [Productive](https://azure.microsoft.com/en-us/overview/productivity/) and explore Azure main pillars:
+Explore Azure main pillars:
+> *Navigation*: Click on Learn more of one of the pillars (e.g. [Learn more about accelerating innovation](https://azure.microsoft.com/en-us/overview/productivity/))
 * [Productive](https://azure.microsoft.com/en-us/overview/productivity/)
 * [Hybrid](https://azure.microsoft.com/en-us/overview/hybrid-cloud/)
 * [Intelligent](https://azure.microsoft.com/en-us/overview/intelligent/)
