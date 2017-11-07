@@ -59,8 +59,29 @@ Explore Azure main pillars:
 Azure is generally available in 36 regions around the world, with plans announced for 6 additional regions. We place a high priority on geographic expansion to enable higher performance, and to support your requirements and preferences regarding data location.
 
 Explore the following:
-* Map with regions available and coming soon
+* Regions available, coming soon and location details
 * Products available by region ([Explore products per region](https://azure.microsoft.com/en-us/regions/))
+
+More resources:
+* [Azure datacenters](https://azure.microsoft.com/en-us/overview/datacenters/)
+* [Find which Azure region is right for you](https://azure.microsoft.com/en-us/overview/datacenters/how-to-choose/)
+
+
+#### Paired Regions
+
+> **SHOW** [Azure paired regions](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions#what-are-paired-regions) 
+
+> *Navigation*: https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions#what-are-paired-regions 
+
+Explore the following:
+* What are paired regions?
+* 
+
+
+> **SHOW** []() 
+
+> *Navigation*: https://azure.com > 
+
 
 ## Azure Services
 
