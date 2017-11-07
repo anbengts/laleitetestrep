@@ -15,17 +15,31 @@ Introduction to Azure Infrastructure Services
 
 ## Azure Overview
 
+> **SHOW** [Azure website](https://azure.microsoft.com/en-us/)
+
 ### What is cloud computing?
+
+> **SHOW** [What is cloud computing?](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
 
 Simply put, cloud computing is the delivery of computing services—servers, storage, databases, networking, software, analytics, and more—over the Internet (“the cloud”). Companies offering these computing services are called cloud providers and typically charge for cloud computing services based on usage, similar to how you’re billed for water or electricity at home.
 
-Go through [What is cloud computing?](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/) and talk about the following topics:
+On [What is cloud computing?](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/) explore the following topics:
 * Top benefits of cloud computing
 * Types of cloud services: [IaaS](https://azure.microsoft.com/en-us/overview/what-is-iaas/), [PaaS](https://azure.microsoft.com/en-us/overview/what-is-paas/), [SaaS](https://azure.microsoft.com/en-us/overview/what-is-saas/)
 * Types of cloud deployments: public, private, hybrid
 
 
 ### What is Azure?
+
+> **SHOW** [What is Azure?](https://azure.microsoft.com/en-us/overview/what-is-azure/) 
+
+Azure is a comprehensive set of cloud services that developers and IT professionals use to build, deploy, and manage applications through our global network of datacenters. Integrated tools, DevOps, and a marketplace support you in efficiently building anything from simple mobile apps to internet-scale solutions.
+
+> **SHOW** [Productive](https://azure.microsoft.com/en-us/overview/productivity/) and explore Azure main pillars:
+* [Productive](https://azure.microsoft.com/en-us/overview/productivity/)
+* [Hybrid](https://azure.microsoft.com/en-us/overview/hybrid-cloud/)
+* [Intelligent](https://azure.microsoft.com/en-us/overview/intelligent/)
+* [Trusted](https://azure.microsoft.com/en-us/overview/trusted-cloud/)
 
 
 ## Azure Services
