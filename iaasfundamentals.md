@@ -9,7 +9,7 @@
 * [Compute](#compute)
 * [Networking](#networking)
 * [Governance](#governance)
-* [Architectural design best practices & guidance](#architectural-design-best-practices-guidance)
+* [Architectural design best practices & guidance](#architectural-design-best-practices-&-guidance)
 * [POC](#poc)
 
 ## Azure Overview
