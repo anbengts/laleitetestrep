@@ -78,19 +78,19 @@ Explore the following:
 * [Benefits of paired regions](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions#benefits-of-paired-regions)
 
 
-### Azure Services
+## Azure Services
 
 > **SHOW** [Azure services](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=all) 
 
 > *Navigation*: https://azure.com > Documentation > Products > All
 
-#### Core IaaS Services
+## Core IaaS Services
 
 Azure is a very broad platform wit both IaaS and PaaS offerings.
-Focus will be on IaaS:
-* Compute > Virtual Machines & Availability Sets
-* Storage > Disks, Blobs & Files
-* Networking > Virtual Networks, VPN, Express Route, Load Balancer, DNS & Traffic Manager
+Core IaaS Services:
+* [Compute](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=Compute) > Virtual Machines & Availability Sets
+* [Storage](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=Storage) > Disks, Blobs & Files
+* [Networking](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=Networking) > Virtual Networks, VPN, Express Route, Load Balancer, DNS & Traffic Manager
 
 ### Azure Reference Architecture for IaaS VM
 
