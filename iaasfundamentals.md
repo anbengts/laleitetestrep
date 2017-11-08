@@ -78,13 +78,13 @@ Explore the following:
 * [Benefits of paired regions](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions#benefits-of-paired-regions)
 
 
-## Azure Services
+### Azure Services
 
 > **SHOW** [Azure services](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=all) 
 
 > *Navigation*: https://azure.com > Documentation > Products > All
 
-### Core IaaS Services
+#### Core IaaS Services
 
 Azure is a very broad platform wit both IaaS and PaaS offerings.
 Focus will be on IaaS:
@@ -103,6 +103,23 @@ Provisioning a VM in Azure involves more moving parts than just the VM itself. T
 Once you understand the concepts, then you can replicate these concepts per your requirements
 
 Explore the [Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/single-vm#architecture) section, explaining the elements in the architecture. We'll deep dive in this elements through the next modules.
+
+
+### Walkthrough: Azure Website & Portal
+
+> **SHOW** [Azure Website](https://azure.microsoft.com) 
+
+> *Navigation*: https://azure.microsoft.com  
+
+Show the different sections: regions info, documentation, resources, blog/roadmap/updates, etc.
+
+> **SHOW** [Azure Portal Guided Tour](https://portal.azure.com) 
+
+> *Navigation*: 
+> https://azure.microsoft.com > Portal (top-right) or https://portal.azure.com
+> '?' (Help) icon (top-right) > Launch guided tour > Start tour
+
+
 
 
 ## Resource Manager
