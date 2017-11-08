@@ -74,8 +74,9 @@ More resources:
 > *Navigation*: https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions#what-are-paired-regions 
 
 Explore the following:
-* What are paired regions?
-* 
+* [What are paired regions?](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions#what-are-paired-regions)
+* [Benefits of paired regions](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions#benefits-of-paired-regions)
+
 
 
 > **SHOW** []() 
