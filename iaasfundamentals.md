@@ -89,8 +89,8 @@ Explore the following:
 Azure is a very broad platform wit both IaaS and PaaS offerings.
 Core IaaS Services:
 * [Compute](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=Compute) > Virtual Machines & Availability Sets
-* [Storage](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=Storage) > Disks, Blobs & Files
-* [Networking](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=Networking) > Virtual Networks, VPN, Express Route, Load Balancer, DNS & Traffic Manager
+* [Storage](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=storage) > Disks, Blobs & Files
+* [Networking](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=network) > Virtual Networks, VPN, Express Route, Load Balancer, DNS & Traffic Manager
 
 ### Azure Reference Architecture for IaaS VM
 
