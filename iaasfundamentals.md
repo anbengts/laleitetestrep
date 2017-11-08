@@ -78,16 +78,31 @@ Explore the following:
 * [Benefits of paired regions](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions#benefits-of-paired-regions)
 
 
-
-> **SHOW** []() 
-
-> *Navigation*: https://azure.com > 
-
-
 ## Azure Services
 
+> **SHOW** [Azure services](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=all) 
 
-## Core IaaS Services
+> *Navigation*: https://azure.com > Documentation > Products > All
+
+### Core IaaS Services
+
+Azure is a very broad platform wit both IaaS and PaaS offerings.
+Focus will be on IaaS:
+* Compute > Virtual Machines & Availability Sets
+* Storage > Disks, Blobs & Files
+* Networking > Virtual Networks, VPN, Express Route, Load Balancer, DNS & Traffic Manager
+
+### Azure Reference Architecture for IaaS VM
+
+> **SHOW** [Run a Windows VM on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/single-vm) 
+
+> *Navigation*: https://azure.com > Documentation > Architecture > Reference Architectures > Windows VM workloads > Single VM
+
+We will review concepts that revolve around a whole Single VM architecture on Azure.
+Provisioning a VM in Azure involves more moving parts than just the VM itself. There are compute, networking, and storage elements.
+Once you understand the concepts, then you can replicate these concepts per your requirements
+
+Explore the [Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/single-vm#architecture) section, explaining the elements in the architecture. We'll deep dive in this elements through the next modules.
 
 
 ## Resource Manager
@@ -115,3 +130,8 @@ Deliver from deck Delivery Ready IP\Networking\ Azure - Networking Overview.pptx
 ## Architectural design best practices & guidance
 
 ## POC
+
+
+> **SHOW** []() 
+
+> *Navigation*: https://azure.com > 
