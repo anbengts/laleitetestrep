@@ -86,4 +86,9 @@ Show the different sections: regions info, documentation, resources, blog/roadma
 > https://azure.microsoft.com > Portal (top-right) or https://portal.azure.com
 > '?' (Help) icon (top-right) > Launch guided tour > Start tour
 
+> **GUIDE** [Azure Portal Walkthrough](https://github.com/Azure/onboarding-guidance/blob/master/Portal/PortalTour101.md)
+
 > **GUIDE** [Customize your Azure portal](https://github.com/Azure/onboarding-guidance/blob/master/Scenarios/POC%20Scenario-HTTP.md#customize-your-azure-portal)
+
+
+
