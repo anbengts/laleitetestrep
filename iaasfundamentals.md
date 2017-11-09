@@ -2,7 +2,7 @@
 Introduction to Azure Infrastructure Services
 
 ## Agenda
-* [Azure Overview](#azureoverview.md)
+* [Azure Overview](azureoverview.md)
 * [Azure Services](#azure-services)
 * [Core IaaS Services](#core-iaas-services)
 * [Resource Manager](#resource-manager)
