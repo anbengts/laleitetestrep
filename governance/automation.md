@@ -1,0 +1,2 @@
+
+# Azure Capability: Azure Automation
