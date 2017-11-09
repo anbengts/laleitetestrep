@@ -1,3 +1,5 @@
+> This is work in progress.
+
 # IaaS Fundamentals
 Introduction to Azure Infrastructure Services
 
