@@ -1,13 +1,21 @@
 > This is work in progress.
 
 # Azure Governance
- 
 
-## Governance Overview
+## Agenda
 
-Provide an introduction to Azure Governance. Explain that the foundations, pillars and components.
+* [Governance overview](governanceoverview.md)
+* Naming Standards
+* Policies 
+* Resource Group
+* Resource Tags
+* Role-based Access Control 
+* Resource Locks
+* Security Center
+* Automation
 
-[Azure Governance](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-subscription-governance#need-for-governance)
+
+
 
 ## Governance Foundation: The Enterprise Enrollment
 
