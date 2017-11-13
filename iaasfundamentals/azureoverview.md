@@ -88,7 +88,7 @@ Show the different sections: regions info, documentation, resources, blog/roadma
 
 > **GUIDE** [Azure Portal Walkthrough](https://github.com/Azure/onboarding-guidance/blob/master/Portal/PortalTour101.md)
 
-> **GUIDE** [Customize your Azure portal](https://github.com/Azure/onboarding-guidance/blob/master/Scenarios/POC%20Scenario-HTTP.md#customize-your-azure-portal)
+> **GUIDE** [Customize your Azure portal](https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md#customize-your-azure-portal)
 
 
 
