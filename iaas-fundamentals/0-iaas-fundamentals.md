@@ -8,7 +8,6 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 ## Agenda
 * Azure Overview
-* Azure Services
 * Core IaaS Services
 * Resource Manager
 * Storage 

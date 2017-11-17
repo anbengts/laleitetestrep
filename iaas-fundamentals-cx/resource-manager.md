@@ -4,32 +4,26 @@
 
 ## What is Azure Resource Manager (ARM)?
 
-> **SHOW** [Azure Resource Manager overview](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview) 
-
-> *Navigation*: https://azure.com > Documentation > Products > Monitoring + Management > [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview) 
-
-Explore the following topics:
-* What is Azure Resource Manager (ARM)?
-  * Azure Resource Manager or ARM is a consistent model/framework for creating, managing and monitoring resources in Azure, across all the different tools you can use (Azure PowerShell, Azure CLI, Azure portal, REST API, and development tools).
+* [Azure Resource Manager overview](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview) 
 * [Terminology](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#terminology)
 * [The benefits of using Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#the-benefits-of-using-resource-manager)
 
 
 ## Resource group
 
-> **SHOW** [Resource Groups](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#resource-groups) 
-
-> *Navigation*: https://azure.com > Documentation > Products > Monitoring + Management > Azure Resource Manager > [Resource Groups](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#resource-groups) 
-
-Explore the following topics:
-* Important factors to consider when defining your resource group.
-
-More resources:
+* [Resource Groups](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#resource-groups) 
 * [Move resources to new resource group or subscription](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources)
 
 
 ## Walkthrough: Resources in Azure (Resource Explorer)
-> [LINK MISSING] Reference Walkthrough on customer Resource Manager page
+
+* Open the **Azure Portal** https://portal.azure.com.
+* On the Search option (top bar) type **Resource Explorer**.
+* Pick/expand one of your subscriptions and then Resource Groups.
+* Pick/expand one of your resource groups and expand Resources.
+* You’ll find all of the Azure resources created in this Resource Group.
+* Click in one of the resources and click Open blade (right window) to see the management experience of that resource.
+
 
 
 ## Deployment and management tools
@@ -65,6 +59,8 @@ Explore the following topics:
 
 More resources:
 * [Export an Azure Resource Manager template from existing resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-export-template)
+
+
 
 
 ###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#delivery-guide)

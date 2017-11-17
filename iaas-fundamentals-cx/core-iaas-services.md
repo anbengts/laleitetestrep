@@ -2,12 +2,9 @@
 
 # Core IaaS Services
 
-> **SHOW** [Azure website](https://azure.microsoft.com/en-us/)
-
-> *Navigation*: https://azure.com (if needed change language at the bottom of the page)
+* [Azure website](https://azure.microsoft.com/en-us/)
 
 Azure is a very broad platform wit both IaaS and PaaS offerings.
-Core IaaS Services:
 Core IaaS Services:
 * [Compute](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=Compute) 
   * Virtual Machines 
