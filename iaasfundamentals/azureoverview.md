@@ -1,7 +1,5 @@
 ###### Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
 
-> Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
-
 # Azure Overview
 
 > **SHOW** [Azure website](https://azure.microsoft.com/en-us/)
@@ -15,9 +13,8 @@
 
 > *Navigation*: https://azure.com > Why Azure > What is Azure > *scroll down* > [What is cloud computing?](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
 
-Simply put, cloud computing is the delivery of computing services—servers, storage, databases, networking, software, analytics, and more—over the Internet (“the cloud”). Companies offering these computing services are called cloud providers and typically charge for cloud computing services based on usage, similar to how you’re billed for water or electricity at home.
-
-On [What is cloud computing?](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/) explore the following topics:
+Explore the following topics:
+* What is cloud computing?
 * Top benefits of cloud computing
 * Types of cloud services: [IaaS](https://azure.microsoft.com/en-us/overview/what-is-iaas/), [PaaS](https://azure.microsoft.com/en-us/overview/what-is-paas/), [SaaS](https://azure.microsoft.com/en-us/overview/what-is-saas/)
 * Types of cloud deployments: public, private, hybrid
@@ -61,7 +58,7 @@ More resources:
 
 > *Navigation*: https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions#what-are-paired-regions 
 
-Explore the following:
+Explore the following topics:
 * [What are paired regions?](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions#what-are-paired-regions)
 * [Benefits of paired regions](https://docs.microsoft.com/en-us/azure/best-practices-availability-paired-regions#benefits-of-paired-regions)
 
@@ -94,15 +91,4 @@ Show the different sections: regions info, documentation, resources, blog/roadma
 
 
 
-
-
-
-
-#### Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
-
-##### Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
-
 ###### Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
-
-
-> Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)

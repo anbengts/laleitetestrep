@@ -1,4 +1,4 @@
-> This is work in progress.
+> DO NOT USE. WORK IN PROGRESS.
 
 # IaaS Fundamentals
 Introduction to Azure Infrastructure Services
@@ -45,5 +45,4 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 > *Navigation*: https://azure.com > 
 
 Explore the following topics:
-* [Introducing the Azure Storage services]()
 * []()
