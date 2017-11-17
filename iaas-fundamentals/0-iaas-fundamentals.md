@@ -27,7 +27,7 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 |                     | Source format | Estimated time | Deliver from  | Readiness Resources |
 | -------------       | ------------- | -------------  | ------------- | -------------       |
 | FastTrack for Azure | PowerPoint    | 15 min         | [Delivery Ready IP\\_FTA program Overview and meet the team\Fast Track for Azure - Introduction to the program and team.pptx](https://microsoft.sharepoint.com/:p:/t/fasttrackforazure/CE/EcazqrisnQ9HtMeUpJJ3qhwBidLwLxU3YR--unHegKsdeg?e=ec5f9090fcc641238f3a683942df2b5b)   | | 
-| Azure Overview      | GitHub        | 30 min         | [Azure Overview](azureoverview.md) | [Azure Boot Camp - Technical Overview by Mark Russinovich](https://microsoft.sharepoint.com/sites/infopedia/media/details/AEVD-3-121938) | 
+| Azure Overview      | GitHub        | 30 min         | [Azure Overview](azure-overview.md) | [Azure Boot Camp - Technical Overview by Mark Russinovich](https://microsoft.sharepoint.com/sites/infopedia/media/details/AEVD-3-121938) | 
 | Core IaaS Services  | GitHub        | 15 min         | [Core IaaS Services](core-iaas-services.md) | | 
 | Resource Manager    | GitHub        | 1 h            | [Resource Manager](resource-manager.md) | | 
 | Storage             | GitHub        | 1 h            | [Storage](storage.md) | | 
