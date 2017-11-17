@@ -27,14 +27,14 @@ On [What is cloud computing?](https://azure.microsoft.com/en-us/overview/what-is
 
 > *Navigation*: https://azure.com > Why Azure > [What is Azure?](https://azure.microsoft.com/en-us/overview/what-is-azure/) 
 
-Azure is a comprehensive set of cloud services that developers and IT professionals use to build, deploy, and manage applications through our global network of datacenters. Integrated tools, DevOps, and a marketplace support you in efficiently building anything from simple mobile apps to internet-scale solutions.
-
-Explore Azure main pillars:
-> *Navigation*: Click on Learn more of one of the pillars (e.g. [Learn more about accelerating innovation](https://azure.microsoft.com/en-us/overview/productivity/))
-* [Productive](https://azure.microsoft.com/en-us/overview/productivity/)
-* [Hybrid](https://azure.microsoft.com/en-us/overview/hybrid-cloud/)
-* [Intelligent](https://azure.microsoft.com/en-us/overview/intelligent/)
-* [Trusted](https://azure.microsoft.com/en-us/overview/trusted-cloud/)
+Explore the following topics:
+* What is Azure?
+* Azure main pillars
+  > *Navigation*: Click on Learn more of one of the pillars (e.g. [Learn more about accelerating innovation](https://azure.microsoft.com/en-us/overview/productivity/))
+  * [Productive](https://azure.microsoft.com/en-us/overview/productivity/)
+  * [Hybrid](https://azure.microsoft.com/en-us/overview/hybrid-cloud/)
+  * [Intelligent](https://azure.microsoft.com/en-us/overview/intelligent/)
+  * [Trusted](https://azure.microsoft.com/en-us/overview/trusted-cloud/)
 
 
 ## Azure regions
@@ -43,9 +43,8 @@ Explore Azure main pillars:
 
 > *Navigation*: https://azure.com > *scroll down to the end of the page* > [Regions](https://azure.microsoft.com/en-us/regions/) 
 
-Azure is generally available in 36 regions around the world, with plans announced for 6 additional regions. We place a high priority on geographic expansion to enable higher performance, and to support your requirements and preferences regarding data location.
 
-Explore the following:
+Explore the following topics:
 * Regions available, coming soon and location details
 * Products available by region ([Explore products per region](https://azure.microsoft.com/en-us/regions/))
 
@@ -92,3 +91,15 @@ Show the different sections: regions info, documentation, resources, blog/roadma
 
 
 
+
+
+
+
+
+
+
+
+###### Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
+
+
+> Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)

@@ -1,4 +1,4 @@
-> Go back to [IaaS Fundamentals](0-iaasfundamentals.md)
+> Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
 
 # Storage
 
@@ -17,3 +17,14 @@ Resources:
 * [Azure Storage](https://azure.microsoft.com/en-us/services/storage)
 * [Azure Storage Documentation](https://docs.microsoft.com/en-us/azure/storage/)
 
+
+
+
+
+
+
+
+
+
+
+> Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
