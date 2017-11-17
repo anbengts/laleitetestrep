@@ -1,4 +1,4 @@
-###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#delivery-guide)
+###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#resources)
 
 # Azure Resource Manager
 
@@ -50,4 +50,4 @@ More resources:
 
 
 
-###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#delivery-guide)
+###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#resources)

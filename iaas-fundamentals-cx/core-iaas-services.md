@@ -1,4 +1,4 @@
-###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#delivery-guide)
+###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#resources)
 
 # Core IaaS Services
 
@@ -32,4 +32,4 @@ Once you understand the concepts, then you can replicate these concepts per your
 Explore the [Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/single-vm#architecture) section, explaining the elements in the architecture. We'll deep dive in this elements through the next modules.
 
 
-###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#delivery-guide)
+###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#resources)

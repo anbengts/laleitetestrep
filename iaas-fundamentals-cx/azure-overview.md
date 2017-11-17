@@ -56,4 +56,4 @@
 
 
 
-###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#delivery-guide)
+###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#resources)
