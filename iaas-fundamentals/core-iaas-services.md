@@ -1,4 +1,4 @@
-###### Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
+###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#delivery-guide)
 
 # Core IaaS Services
 
@@ -35,4 +35,4 @@ Explore the [Architecture](https://docs.microsoft.com/en-us/azure/architecture/r
 
 
 
-###### Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
+###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#delivery-guide)
