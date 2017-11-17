@@ -1,3 +1,5 @@
+###### Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
+
 > Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
 
 # Azure Overview
@@ -96,8 +98,9 @@ Show the different sections: regions info, documentation, resources, blog/roadma
 
 
 
+#### Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
 
-
+##### Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
 
 ###### Go back to [IaaS Fundamentals](0-iaasfundamentals.md#delivery-guide)
 
