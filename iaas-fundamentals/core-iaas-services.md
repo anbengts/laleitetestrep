@@ -7,28 +7,18 @@
 > *Navigation*: https://azure.com (if needed change language at the bottom of the page)
 
 Azure is a very broad platform wit both IaaS and PaaS offerings.
+
 Core IaaS Services:
-Core IaaS Services:
-* [Compute](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=Compute) 
-  * Virtual Machines 
-  * Availability Sets
-  * VM Scale Sets
-* [Storage](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=storage) 
-  * Disks
-  * Blobs
-  * Files
-* [Networking](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=network)
-  * Virtual Networks
-  * VPN
-  * Express Route
-  * Load Balancer
-  * DNS
-  * Traffic Manager
-* [Management](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=mgmt)
-  * Log analytics
-  * Backup
-  * Site Recovery
-  * Security Center
+
+| [Compute](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=Compute) | [Storage](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=storage) | [Networking](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=network) | [Management](https://docs.microsoft.com/en-us/azure/#pivot=products&panel=mgmt) |
+|:-----------------|:--------|:----------------|:----------------|
+| Virtual Machines  | Disks    | Virtual Networks | Log analytics   |
+| Availability Sets | Blobs    | VPN              | Backup          |
+| VM Scale Sets     | Files    | Express Route    | Site Recovery   |
+|                   |          | Load Balancer    | Security Center |
+|                   |          | DNS              |                 |
+|                   |          | Traffic Manager  |                 |
+
 
 
 ## Azure Reference Architecture for IaaS VM

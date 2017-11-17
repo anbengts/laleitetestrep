@@ -28,8 +28,6 @@
 
 ## Deployment and management tools
 
-Briefly explore tools to deploy and manage resource in ARM:
-
 | Azure Portal  | Azure PowerShell | Azure CLI  | Azure Rest API | ARM Template |
 | ------------- | ------------- | ------------- |------------- | ------------- |
 | ![alt text](media/azure-portal.png "Azure Portal") | ![alt text](media/azure-powershell.png "Azure Portal") | ![alt text](media/azure-cli.png "Azure Portal") | ![alt text](media/azure-restapi.png "Azure Portal") | ![alt text](media/arm-templates.png "Azure Portal") |
@@ -43,21 +41,10 @@ More resources:
 
 ## ARM templates
 
-> **SHOW** [ARM Template](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#template-deployment)
+* [ARM Template](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#template-deployment)
 
-> *Navigation*: https://azure.com > Documentation > Products > Monitoring + Management > Azure Resource Manager > Template deployment(https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview#template-deployment) 
+* [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
 
-Explore the following topics:
-* What is an ARM template
-* ARM template example
-
-
-> **SHOW** [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
-
-> *Navigation*: https://azure.com > Resources > Templates
-
-
-More resources:
 * [Export an Azure Resource Manager template from existing resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-export-template)
 
 
