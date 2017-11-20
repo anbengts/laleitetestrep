@@ -33,5 +33,11 @@ Once you understand the concepts, then you can replicate these concepts per your
 
 Explore the [Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/single-vm#architecture) section, explaining the elements in the architecture. We'll deep dive in this elements through the next modules.
 
+More resources:
+
+* [Azure Reference Architectures for IaaS VM running Windows VM workloads](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/) 
+
+* [Azure Reference Architectures for IaaS VM running Linux VM workloads](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-linux/index) 
+
 
 ###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#delivery-guide)

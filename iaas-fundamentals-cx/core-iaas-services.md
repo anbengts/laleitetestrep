@@ -21,15 +21,12 @@ Core IaaS Services:
 
 ## Azure Reference Architecture for IaaS VM
 
-> **SHOW** [Run a Windows VM on Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/single-vm) 
+Azure Reference Architectures for IaaS VM
 
-> *Navigation*: https://azure.com > Documentation > Architecture > Reference Architectures > Windows VM workloads > Single VM
+* [Running Windows VM workloads](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/) 
 
-We will review concepts that revolve around a whole Single VM architecture on Azure.
-Provisioning a VM in Azure involves more moving parts than just the VM itself. There are compute, networking, and storage elements.
-Once you understand the concepts, then you can replicate these concepts per your requirements
+* [Running Linux VM workloads](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-linux/index) 
 
-Explore the [Architecture](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/virtual-machines-windows/single-vm#architecture) section, explaining the elements in the architecture. We'll deep dive in this elements through the next modules.
 
 
 ###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#resources)
