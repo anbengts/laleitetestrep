@@ -76,8 +76,7 @@ Explore the following topics:
 
 ## Quiz
 
-> **QUIZ**  
-  Have you visited the Azure public website and/or the Azure portal before?
+> **QUIZ**  Have you visited the Azure public website and/or the Azure portal before?
  * A. Familiar with both.
  * B. Visited Azure public website.
  * C. Visited Azure Portal.
