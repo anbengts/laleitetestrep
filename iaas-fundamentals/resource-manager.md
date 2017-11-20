@@ -63,7 +63,7 @@ Explore the following topics:
 
 > Source: Ready session | Digital Ready Boot Camp: Azure Compute (IaaS/VM/Scale Sets) | min 03:13
 
-> GUIDE [Walkthrough: Azure Templates (Azure Docs and GitHub)](/iaas-fundamentals-cx/resource-manager.md#arm-templates)
+> GUIDE [Walkthrough: Azure Templates (Azure Docs and GitHub)](/iaas-fundamentals-cx/resource-manager.md#walkthrough-azure-templates-azure-docs-and-gitHub)
 
 
 More resources:
