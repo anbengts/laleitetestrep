@@ -41,14 +41,20 @@
 
 ## Walkthrough: Azure Website & Portal
 
+
 > [Azure Website](https://azure.microsoft.com) 
 
 > [Azure Portal](https://portal.azure.com) 
 
 
-* [Azure Portal Walkthrough](https://github.com/Azure/onboarding-guidance/blob/master/Portal/PortalTour101.md)
+* **Azure Portal Guided Tour**
+  * Go to **https://portal.azure.com**
+  * Click on the '**?**' (Help) icon (located at the top-right) 
+  * Click on **Launch guided tour** > **Start tour**
 
-* [Customize your Azure portal](https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md#customize-your-azure-portal)
+* [**Azure Portal Walkthrough**](https://github.com/Azure/onboarding-guidance/blob/master/Portal/PortalTour101.md)
+
+* [**Customize your Azure portal**](https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md#customize-your-azure-portal)
 
 
 
