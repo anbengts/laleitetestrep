@@ -29,7 +29,7 @@ More resources:
 
 
 ## Walkthrough: Resources in Azure (Resource Explorer)
-> [LINK MISSING] Reference Walkthrough on customer Resource Manager page
+> GUIDE [Walkthrough: Resources in Azure (Resource Explorer)](/iaas-fundamentals-cx/resource-manager.md#walkthrough-resources-in-azure-resource-explorer) 
 
 
 ## Deployment and management tools

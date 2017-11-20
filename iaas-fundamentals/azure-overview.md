@@ -35,6 +35,10 @@ Explore the following topics:
   * [Intelligent](https://azure.microsoft.com/en-us/overview/intelligent/)
   * [Trusted](https://azure.microsoft.com/en-us/overview/trusted-cloud/)
 
+More resources:
+* [Microsoft Trust Center](https://www.microsoft.com/en-us/trustcenter) 
+* [Service Trust Portal - trust documents](https://servicetrust.microsoft.com/Documents/TrustDocuments)
+
 
 ## Azure regions
 
@@ -70,6 +74,17 @@ Explore the following topics:
 > *Navigation*: https://azure.com > Documentation > Products > All
 
 
+## Quiz
+
+> **QUIZ**  
+  Have you visited the Azure public website and/or the Azure portal before?
+ * A. Familiar with both.
+ * B. Visited Azure public website.
+ * C. Visited Azure Portal.
+ * D. What is that? 
+
+
+
 ## Walkthrough: Azure Website & Portal
 
 > **SHOW** [Azure Website](https://azure.microsoft.com) 
@@ -87,6 +102,16 @@ Show the different sections: regions info, documentation, resources, blog/roadma
 > **GUIDE** [Azure Portal Walkthrough](https://github.com/Azure/onboarding-guidance/blob/master/Portal/PortalTour101.md)
 
 > **GUIDE** [Customize your Azure portal](https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md#customize-your-azure-portal)
+
+
+## Go Do's
+
+> **SHOW** [FTA GitHub page for IaaS Fundamentals](https://github.com/Azure/fta-azurefundamentals/tree/master/iaas-fundamentals/articles) 
+
+* Visit the [Azure Website](https://portal.azure.com) 
+* Check available [Azure regions](https://azure.microsoft.com/en-us/regions/) 
+* Visit the [Microsoft Trust Center](https://www.microsoft.com/en-us/trustcenter)
+* Go to the [Azure Portal](https://portal.azure.com) and start exploring 
 
 
 
