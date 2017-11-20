@@ -29,7 +29,10 @@ More resources:
 
 
 ## Walkthrough: Resources in Azure (Resource Explorer)
-> GUIDE [Walkthrough: Resources in Azure (Resource Explorer)](/iaas-fundamentals-cx/resource-manager.md#walkthrough-resources-in-azure-resource-explorer) 
+
+> Source: Ready session | Digital Ready Boot Camp: Azure Compute (IaaS/VM/Scale Sets) | min 01:53
+
+> **GUIDE** [Walkthrough: Resources in Azure (Resource Explorer)](/iaas-fundamentals-cx/resource-manager.md#walkthrough-resources-in-azure-resource-explorer) 
 
 
 ## Deployment and management tools
@@ -63,7 +66,7 @@ Explore the following topics:
 
 > Source: Ready session | Digital Ready Boot Camp: Azure Compute (IaaS/VM/Scale Sets) | min 03:13
 
-> GUIDE [Walkthrough: Azure Templates (Azure Docs and GitHub)](/iaas-fundamentals-cx/resource-manager.md#walkthrough-azure-templates-azure-docs-and-github)
+> **GUIDE** [Walkthrough: Azure Templates (Azure Docs and GitHub)](/iaas-fundamentals-cx/resource-manager.md#walkthrough-azure-templates-azure-docs-and-github)
 
 
 More resources:
