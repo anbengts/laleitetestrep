@@ -1,4 +1,4 @@
-###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#resources)
+###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#resources)
 
 # Azure Overview
 
@@ -56,4 +56,4 @@
 
 
 
-###### Go back to [IaaS Fundamentals](0-iaas-fundamentals.md#resources)
+###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#resources)
