@@ -2,10 +2,6 @@
 
 # Azure Overview
 
-> **SHOW** [Azure website](https://azure.microsoft.com/en-us/)
-
-> *Navigation*: https://azure.com (if needed change language at the bottom of the page)
-
 
 ## What is cloud computing?
 
