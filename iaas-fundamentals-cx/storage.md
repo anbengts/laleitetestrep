@@ -55,9 +55,19 @@
 * [Managed Disks and Encryption](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview#managed-disks-and-encryption)
 
 
-![alt text](media/convert-managed-disks-performance.png "Logo Title Text 1")
+### Walkthrough: Create a VM with Managed Disks
+
+> **GUIDE** [Create a Windows virtual machine with the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal)
+
+#### Convert Azure managed disks storage from standard to premium, and vice versa
+
+* Managed disks offers two storage options: Premium (SSD-based) and Standard (HDD-based).
+* It allows you to easily switch between the two options with minimal downtime based on your performance needs. 
+* The conversion requires a restart of the VM, so schedule the migration of your disks storage during a pre-existing maintenance window.
 
 ![screenshot](media/convert-managed-disks-performance.png "Logo Title Text 1")
+
+> **GUIDE** [Convert Azure managed disks storage from standard to premium, and vice versa](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/convert-disk-storage)
 
 
 
