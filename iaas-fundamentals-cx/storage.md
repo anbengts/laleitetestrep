@@ -65,7 +65,7 @@
 * It allows you to easily switch between the two options with minimal downtime based on your performance needs. 
 * The conversion requires a restart of the VM, so schedule the migration of your disks storage during a pre-existing maintenance window.
 
-![screenshot](media/convert-managed-disks-performance.png "Logo Title Text 1")
+![screenshot](media/convert-managed-disks-performance.png "Convert Azure managed disks storage from standard to premium")
 
 > **GUIDE** [Convert Azure managed disks storage from standard to premium, and vice versa](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/convert-disk-storage)
 

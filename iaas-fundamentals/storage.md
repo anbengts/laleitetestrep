@@ -102,7 +102,7 @@ Explore the following topics:
 
 > **GUIDE** [Convert Azure managed disks storage from standard to premium, and vice versa](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/convert-disk-storage)
 
-> **SHOW** [Convert Azure managed disks storage from standard to premium, and vice versa]()
+> **SHOW** [Convert Azure managed disks storage from standard to premium, and vice versa](https://github.com/laraaleite/laleitetestrep/blob/master/iaas-fundamentals-cx/storage.md#convert-azure-managed-disks-storage-from-standard-to-premium-and-vice-versa)
 
 * After VM is created show how to upgrade from Standard (HDD) disk to Premium (SSD) disk.
 * Stop the VM
