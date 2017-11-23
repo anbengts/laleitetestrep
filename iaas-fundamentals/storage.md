@@ -90,7 +90,7 @@ Explore the following topics:
 * [Managed Disks and Encryption](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/managed-disks-overview#managed-disks-and-encryption)
 
 
-### Walkthrough: Create a VM with Managed Disks
+## Walkthrough: Create a VM with Managed Disks
 
 > **GUIDE** [Create a Windows virtual machine with the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal)
 
@@ -98,9 +98,12 @@ Explore the following topics:
 * On the **Basics** tab choose **HDD** for VM disk type
 * On the **Settings** tab show options between creating VMs with **Managed disks** and tradicional storage account
 
-> **GUIDE** [Convert Azure managed disks storage from standard to premium, and vice versa](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/convert-disk-storage)
+
+## Walkthrough: Convert Managed Disk from standard to premium, and vice versa
 
 > **SHOW** [Convert Azure managed disks storage from standard to premium, and vice versa](https://github.com/laraaleite/laleitetestrep/blob/master/iaas-fundamentals-cx/storage.md#convert-azure-managed-disks-storage-from-standard-to-premium-and-vice-versa)
+
+> **GUIDE** [Convert Azure managed disks storage from standard to premium, and vice versa](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/convert-disk-storage)
 
 * After VM is created show how to upgrade from Standard (HDD) disk to Premium (SSD) disk.
 * Stop the VM
