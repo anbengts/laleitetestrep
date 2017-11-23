@@ -119,13 +119,19 @@ Explore the following topics:
 
 > *Navigation*: https://azure.com > Documentation > Products > Storage > Storage > Files > [Introduction](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction)
 
+
 Explore the following topics:
 * [What are Azure Files](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction)
 * [Why Azure Files is useful](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction#why-azure-files-is-useful)
 * [Key benefits](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction#key-benefits)
 
+
+> **SHOW** [Azure File Sync scenario](https://github.com/laraaleite/laleitetestrep/blob/master/iaas-fundamentals-cx/storage.md#files)
+
+
 More resources:
 * [FAQ](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-faq)
+
 
 
 ## Walkthrough: Create a File Share
