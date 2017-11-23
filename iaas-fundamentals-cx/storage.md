@@ -79,7 +79,7 @@
 * [Key benefits](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction#key-benefits)
 * [FAQ](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-faq)
 
-![screenshot](\media\storage-files-azurefilesync.png "Azure File Sync scenario")
+![screenshot](media/storage-files-azurefilesync.png "Azure File Sync scenario")
 
 ## Walkthrough: Create a File Share
 
