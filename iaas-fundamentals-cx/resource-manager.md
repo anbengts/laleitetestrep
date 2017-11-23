@@ -30,7 +30,7 @@
 
 | Azure Portal  | Azure PowerShell | Azure CLI  | Azure Rest API | ARM Template |
 | ------------- | ------------- | ------------- |------------- | ------------- |
-| ![alt text](media/azure-portal.png "Azure Portal") | ![alt text](media/azure-powershell.png "Azure Portal") | ![alt text](media/azure-cli.png "Azure Portal") | ![alt text](media/azure-restapi.png "Azure Portal") | ![alt text](media/arm-templates.png "Azure Portal") |
+| ![screenshot](media/azure-portal.png "Azure Portal") | ![screenshot](media/azure-powershell.png "Azure Portal") | ![screenshot](media/azure-cli.png "Azure Portal") | ![screenshot](media/azure-restapi.png "Azure Portal") | ![screenshot](media/arm-templates.png "Azure Portal") |
 
 More resources:
 * [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure)

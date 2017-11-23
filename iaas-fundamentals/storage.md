@@ -48,9 +48,7 @@ Explore the following topics:
 
 > **GUIDE** [Create a storage account](https://docs.microsoft.com/en-us/azure/storage/storage-create-storage-account#create-a-storage-account)
 
-```
-Storage account name: (prefix)stg01 [e.g. ftapocstg01]
-```
+* **Storage account name**: (prefix)stg01 [e.g. ftapocstg01]
 
 > **GUIDE** [Manage your storage account](https://docs.microsoft.com/en-us/azure/storage/storage-create-storage-account#manage-your-storage-account)
 
@@ -112,31 +110,30 @@ Explore the following topics:
 
 
 
-
-
-
 ## Files
 
+> **SHOW** [Introduction to Azure Files](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction)
 
-
-## Walkthrough: Create a File Share (Azure Portal)
-
-
-
-------
-------
-
-* []()
-
-> **SHOW** []()
-
-> *Navigation*: https://azure.com >  > []()
+> *Navigation*: https://azure.com > Documentation > Products > Storage > Storage > Files > [Introduction](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction)
 
 Explore the following topics:
-* 
+* [What are Azure Files](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction)
+* [Why Azure Files is useful](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction#why-azure-files-is-useful)
+* [Key benefits](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction#key-benefits)
 
-> **GUIDE** []()
+More resources:
+* [FAQ](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-faq)
 
+
+## Walkthrough: Create a File Share
+
+> **GUIDE** [Create a storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-create-storage-account#create-a-storage-account)
+
+> **GUIDE** [Create a file share](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-portal#create-file-share)
+
+> **GUIDE** [Upload and download files](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-portal#upload-and-download-files)
+
+> **GUIDE** [Connect to file share](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-portal#connect-to-file-share)
 
 
 

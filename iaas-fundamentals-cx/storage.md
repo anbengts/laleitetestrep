@@ -71,5 +71,24 @@
 
 
 
+## Files
+
+* [Introduction to Azure Files](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction)
+* [Why Azure Files is useful](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction#why-azure-files-is-useful)
+* [Key benefits](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction#key-benefits)
+* [FAQ](https://docs.microsoft.com/en-us/azure/storage/files/storage-files-faq)
+
+
+## Walkthrough: Create a File Share
+
+> **GUIDE** [Create a storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-create-storage-account#create-a-storage-account)
+
+> **GUIDE** [Create a file share](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-portal#create-file-share)
+
+> **GUIDE** [Upload and download files](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-portal#upload-and-download-files)
+
+> **GUIDE** [Connect to file share](https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-use-files-portal#connect-to-file-share)
+
+
 
 ###### Go back to [IaaS Fundamentals](iaas-fundamentals.md#resources)
