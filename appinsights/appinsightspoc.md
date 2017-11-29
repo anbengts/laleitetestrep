@@ -35,6 +35,7 @@ Self-guided
 * Click on **+New dashboard**.
 * Add name for the dashboard (e.g. App Insights POC).
 * Click on **Done customizing**.
+* Open the **Resource Group** where the application was deployed and click on the **Pin** icon to pin the Resource Group blade to the dashboard. 
 
 
 ## Monitor Azure web app performance
@@ -48,7 +49,7 @@ More info at [Monitor Azure web app performance](https://docs.microsoft.com/en-u
 
 ### (Option 1) Run-time - configure Application Insights for a live Web App
 
-* From the Azure portal open the **ContosoExpense Web app** (under App Services or under the Resource Group where the application was deployed).
+* From the Azure portal **open** the **ContosoExpense Web app** (under App Services or under the Resource Group where the application was deployed).
 
 * Follow steps from [Run time instrumentation with Application Insights](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-azure-web-apps#run-time-instrumentation-with-application-insights)
 
