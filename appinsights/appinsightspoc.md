@@ -29,6 +29,14 @@ Self-guided
 ## Review Contoso Expenses App
 
 
+## Create dashboard for App Insights
+
+* Open the Azure portal.
+* Click on **+New dashboard**.
+* Add name for the dashboard (e.g. App Insights POC).
+* Click on **Done customizing**.
+
+
 ## Monitor Azure web app performance
 
 You can configure monitoring by instrumenting the app in either of two ways:
