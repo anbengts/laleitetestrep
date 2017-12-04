@@ -2,7 +2,7 @@
 
 ## Governance overview
 
-* [Governance overview](Azure enterprise scaffold - prescriptive subscription governance)
+* [Azure enterprise scaffold - prescriptive subscription governance](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-subscription-governance)
 
 ## Naming Standards
 
@@ -12,7 +12,7 @@
 
 * [Resource policy](https://docs.microsoft.com/en-us/azure/azure-policy/azure-policy-introduction) 
 
-* [Activity logs]()https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-audit 
+* [Activity logs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-audit)
 
 ## Resource Groups
 
@@ -47,4 +47,4 @@
 
 ## Automation
 
-[Automation](https://docs.microsoft.com/en-us/azure/automation/automation-intro)
+* [Automation](https://docs.microsoft.com/en-us/azure/automation/automation-intro)
