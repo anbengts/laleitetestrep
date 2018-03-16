@@ -1,17 +1,17 @@
-> This is the template to be used in the [FTA GitHub Public](https://github.com/Azure/fasttrackforazure) for each scenario
+> This template should be used in the README.md file of each scenario folder (e.g. https://github.com/Azure/fta-azurefundamentals/blob/master/README.md). 
 
 
 # FastTrack for Azure
 
 See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackForAzure) for more information.
 
-# [MAIN SCENARIO NAME] *Example: Azure Fundamentals Scenarios*
+# [MAIN SCENARIO NAME] *e.g. Azure Fundamentals Scenarios*
 
-* [SUBSCENARIO NAME](SUBSCENARIO LINK)
+* [SUB-SCENARIO NAME](SUB-SCENARIO FOLDER/)
+* [SUB-SCENARIO NAME](SUB-SCENARIO FOLDER/)
+* ..
+* *e.g.* [*IaaS Fundamentals*](iaas-fundamentals/)
 
-*Example:*
-* [IaaS Fundamentals](iaas-fundamentals/)
-* [PaaS Fundamentals](paas-fundamentals/)
 
  
 # Contributing
