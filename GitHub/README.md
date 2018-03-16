@@ -3,11 +3,11 @@
 
 ## Table of contents 
 
-* Resources
-* Executive Update
-* Key Performance Metrics
-* Program Status
-* Customer Learnings and Feedback
+* [Resources](#resources)
+* [Summary](#summary)
+* [Key Performance Metrics](#key-performance-metrics)
+* [Program Status](#program-status)
+* [Customer Learnings and Feedback](#customer-learnings-and-feedback)
 
 
 ## Resources
@@ -21,7 +21,7 @@
 * **Questions?** Email us: laleite@microsoft.com or wim.henderyckx@microsoft.com
 
 
-## Executive Update
+## Summary
 
 This project has following goals:
 * Guarantee consistency across our public and private GitHub resources.
