@@ -1,5 +1,0 @@
-# [SUB-SCENARIO NAME] - Reference Resources
-
-* [REFERENCE NAME](REFERENCE LINK)
-
-    [NOTES...]
