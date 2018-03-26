@@ -51,7 +51,7 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 * Share *Service Description* and *Agenda* with attendees prior to the delivery.
 
 
-## Delivery guidance
+## Delivery guide
 
 
 | Title               | Estimated time      | Source format       | Coontent Source     | Readiness Resources |
