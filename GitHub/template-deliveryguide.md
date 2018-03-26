@@ -125,5 +125,5 @@ Followng our session, please find below some additional information on the topic
 
 ## V-team
 
-For feedback or question check the v-team members here: https://msit.powerbi.com/groups/7d8d5e02-96bb-42c0-861e-e2b50b45a796/reports/47982fde-35bf-4ea8-b469-14c30331ace0/ReportSectionb5223bd402c0c587670c
+For feedback or question check the v-team members here [IP v-teams](https://msit.powerbi.com/groups/7d8d5e02-96bb-42c0-861e-e2b50b45a796/reports/47982fde-35bf-4ea8-b469-14c30331ace0/ReportSectionb5223bd402c0c587670c)
 
