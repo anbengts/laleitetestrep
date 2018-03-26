@@ -96,15 +96,37 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 * **POCs and Reference Resources**: [IaaS Fundamentals GitHub page](https://github.com/Azure/fta-azurefundamentals/tree/master/iaas-fundamentals)
 
 
-## Readiness Resources
-
-*Example:*
-
-* [Azure Administrator learning path](https://azure.microsoft.com/en-us/training/learning-paths/azure-administrator/)
-
-
 ## V-team
 
+For feedback or question check the v-team members here: https://msit.powerbi.com/groups/7d8d5e02-96bb-42c0-861e-e2b50b45a796/reports/47982fde-35bf-4ea8-b469-14c30331ace0/ReportSectionb5223bd402c0c587670c
 
 
+## Email templates
+
+### Session meeting request
+
+* **Subject:** FastTrack for Azure - [CUSTOMER NAME] - [DELIVERY NAME] - session X
+* **Body:**  
+    * Include the **Service Description**, **Agenda** and **Prerequisites** (customized based on customer needs and available modules).
+    * To add the delivery on the [FTA Calendar](https://azurecxpportal.azurewebsites.net/FastTrack/Calendar) include:
+        Customer: [CUSTOMER NAME]
+        Engagement: [DELIVERY NAME]
+    * Include Skype link
+
+
+### Follow-up email
+
+```
+Hello [CUSTOMER/NAME],
+
+Followng our session, please find below some additional information on the topics we covered.
+
+[FastTrack for Azure - GitHub - POCs and Reference Resources](https://github.com/Azure/FastTrackForAzure)
+[FastTrack for Azure - GitHub - DELIVERY NAME](DELIVERY PUBLIC GITHUB PAGE) 
+
+[Include more resources/info specific to the delivery/questions]
+
+```
+ 
+ 
 
