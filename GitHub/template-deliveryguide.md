@@ -105,13 +105,13 @@ For feedback or question check the v-team members here: https://msit.powerbi.com
 
 ### Session meeting request
 
-* **Subject:** FastTrack for Azure - [CUSTOMER NAME] - [DELIVERY NAME] - session X
+* **Subject:** ` FastTrack for Azure - [CUSTOMER NAME] - [DELIVERY NAME] - session X `
 * **Body:**  
     * Include the **Service Description**, **Agenda** and **Prerequisites** (customized based on customer needs and available modules).
-    * To add the delivery on the [FTA Calendar](https://azurecxpportal.azurewebsites.net/FastTrack/Calendar) include:
-        Customer: [CUSTOMER NAME]
-        Engagement: [DELIVERY NAME]
-    * Include Skype link
+    * To add the delivery on the [**FTA Calendar**](https://azurecxpportal.azurewebsites.net/FastTrack/Calendar) include:
+        ` Customer: [CUSTOMER NAME] ` 
+        ` Engagement: [DELIVERY NAME] ` 
+    * Include **Skype meeting link**
 
 
 ### Follow-up email
