@@ -10,7 +10,8 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 ## Agenda
 
-* [AGENDA TOPICS]
+* [MODULE 1]
+* [MODULE 2]
 * [...]
 
 *Example:*
