@@ -48,17 +48,17 @@ Scenario Owner's responsabilities:
 
 ## Program Status
 
-*Work in progress.*
+
 
 
 ## Customer Learnings and Feedback
 
-*Work in progress.*
+
 
 
 ## Key Performance Metrics
 
-*Work in progress.*
+
 
 FTA Public GitHub 
 * views metrics / reach to more customers
