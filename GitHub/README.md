@@ -34,9 +34,17 @@ This project has following goals:
 
 *Work in progress.*
 
-Contacts pg
-...
-What informations they need to update/keep track of
+Scenario Owner's responsabilities:
+
+* Keep the [scenario and engagement(s) public GitHub pages](https://github.com/Azure/fasttrackforazure) updated according to the following templates:
+    * Template Scenario: https://github.com/laraaleite/laleitetestrep/blob/master/GitHub/template-scenario.md 
+    * Template Sub-scenario/engagement: https://github.com/laraaleite/laleitetestrep/blob/master/GitHub/template-subscenario.md    
+    * Template Reference Resources page: https://github.com/laraaleite/laleitetestrep/blob/master/GitHub/template-reference-resources.md
+    * Template Walkthrough page: https://github.com/laraaleite/laleitetestrep/blob/master/GitHub/template-walkthrough.md  
+
+* Keep the [engagement(s) delivery how-to internal GitHub pages](https://github.com/Azure/fta-deliveryhowto) updated according to the following templates:
+    * Template Delivery how-to page: https://github.com/laraaleite/laleitetestrep/blob/master/GitHub/template-deliveryguide.md 
+
 
 
 ## Program Status
