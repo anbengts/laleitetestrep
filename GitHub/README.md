@@ -1,3 +1,4 @@
+> *Work in progress.*
 
 # GitHub & Slideless Deliveries Project
 
@@ -31,8 +32,6 @@ This project has following goals:
 
 
 ## Tasks and Responsabilities
-
-*Work in progress.*
 
 Scenario Owner's responsabilities:
 
