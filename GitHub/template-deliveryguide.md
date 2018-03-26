@@ -1,3 +1,5 @@
+> This template should be used for each engagement delivery guide (e.g. https://github.com/Azure/fta-deliveryhowto/blob/master/articles/iaas-fundamentals.md). 
+
 # [DELIVERY NAME] Example: IaaS Fundamentals
 
 ## Service description
