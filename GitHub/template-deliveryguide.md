@@ -45,10 +45,9 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 *Example:*
 
-* Sessions should be scheduled based on customer preferences.
-* Keep in mind that with longer sessions it's easier to lost attendees attention. Remember to make short breaks.
-* Suggestion: start by scheduling 3/4 sessions of 3/2 hours each, and schedule additional if needed.
-* Share *Service Description* and *Agenda* with attendees prior to the delivery.
+* Sessions should be scheduled based on customer preferences. Remember to make short breaks.
+* **Build the agenda for each customer based on the available modules and customer needs**.
+* **Share *Service Description*, *Agenda* and *Prerequisites*** with attendees prior to the delivery (check [Email templates section](#emailtemplates)).
 
 
 ## Delivery guide
@@ -91,15 +90,9 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 * [...]
 
 *Example:*
-
-* **PowerPoint decks**: when requested, a PDF version of the slides can be shared with customer. 
+* **Service Description**, **Agenda** and **Prerequisites**: customized based on customer needs and available modules.
 * **POCs and Reference Resources**: [IaaS Fundamentals GitHub page](https://github.com/Azure/fta-azurefundamentals/tree/master/iaas-fundamentals)
-
-
-## V-team
-
-For feedback or question check the v-team members here: https://msit.powerbi.com/groups/7d8d5e02-96bb-42c0-861e-e2b50b45a796/reports/47982fde-35bf-4ea8-b469-14c30331ace0/ReportSectionb5223bd402c0c587670c
-
+* **PowerPoint decks**: when requested, a PDF version of the slides can be shared with customer. 
 
 ## Email templates
 
@@ -128,5 +121,8 @@ Followng our session, please find below some additional information on the topic
 
 ```
  
- 
+
+## V-team
+
+For feedback or question check the v-team members here: https://msit.powerbi.com/groups/7d8d5e02-96bb-42c0-861e-e2b50b45a796/reports/47982fde-35bf-4ea8-b469-14c30331ace0/ReportSectionb5223bd402c0c587670c
 
