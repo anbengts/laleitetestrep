@@ -48,7 +48,7 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 * Sessions should be scheduled based on customer preferences. Remember to make short breaks.
 * **Build the agenda for each customer based on the available modules and customer needs**.
-* **Share *Service Description*, *Agenda* and *Prerequisites*** with attendees prior to the delivery (check [Email templates section](#emailtemplates)).
+* **Share *Service Description*, *Agenda* and *Prerequisites*** with attendees prior to the delivery (check [Email templates section](#email-templates)).
 
 
 ## Delivery guide
