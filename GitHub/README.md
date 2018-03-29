@@ -8,8 +8,9 @@
 * [Summary](#summary)
 * [Tasks and Responsabilities](#tasks-and-responsabilities)
 * [Program Status](#program-status)
-* [Customer Learnings and Feedback](#customer-learnings-and-feedback)
 * [Key Performance Metrics](#key-performance-metrics)
+* [Learnings and Feedback](#customer-learnings-and-feedback)
+
 
 ## Resources
 
