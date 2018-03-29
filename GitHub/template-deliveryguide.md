@@ -115,7 +115,7 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 ```
 Hello [CUSTOMER/NAME],
 
-Followng our session, please find below some additional information on the topics we covered.
+Following our session, please find below some additional information on the topics we covered.
 
 [FastTrack for Azure - GitHub - POCs and Reference Resources](https://github.com/Azure/FastTrackForAzure)
 [FastTrack for Azure - GitHub - DELIVERY NAME](DELIVERY PUBLIC GITHUB PAGE) 
@@ -125,7 +125,8 @@ Followng our session, please find below some additional information on the topic
 ```
  
 
-## V-team
+## V-team & Credentialing 
 
-For feedback or question check the v-team members here [IP v-teams](https://msit.powerbi.com/groups/7d8d5e02-96bb-42c0-861e-e2b50b45a796/reports/47982fde-35bf-4ea8-b469-14c30331ace0/ReportSectionb5223bd402c0c587670c)
+For feedback, questions or credentialing contact one of the v-team members.
+Check them here [IP v-teams](https://msit.powerbi.com/groups/7d8d5e02-96bb-42c0-861e-e2b50b45a796/reports/47982fde-35bf-4ea8-b469-14c30331ace0/ReportSectionb5223bd402c0c587670c)
 
