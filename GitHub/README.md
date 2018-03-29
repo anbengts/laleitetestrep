@@ -25,15 +25,17 @@
 
 This project has the following goals:
 * Guarantee consistency across our public and private GitHub resources.
+* Reach more customers with the content we own on a public GitHub repository.
 * Leverage slideless deliveries and the reuse of existing public content. The content in our public GitHub repository should be:
-    * Content that currently does not exist in the public documentation (and we should make sure we provide that feedback to the right product teams),
+    * Content that currently does not exist in the public documentation (and, when applicable, we should make sure we provide that feedback to the right product teams),
     * Custom content (e.g. specific walkthrought for the scenarios we support).
-* Reach more customers with the content on the public GitHub repository.
+* Leverage the private repository for internal guidance on how to support customers across different scenarios.
+
 
 
 ## Tasks and Responsabilities
 
-Scenario Owner's responsabilities:
+**Scenario Owner's responsabilities:**
 
 * Keep the [scenario and engagement(s) public GitHub pages](https://github.com/Azure/fasttrackforazure) updated according to the following templates:
     * Template Scenario: https://github.com/laraaleite/laleitetestrep/blob/master/GitHub/template-scenario.md 
@@ -45,23 +47,28 @@ Scenario Owner's responsabilities:
     * Template Delivery how-to page: https://github.com/laraaleite/laleitetestrep/blob/master/GitHub/template-deliveryguide.md 
 
 
+**Engineer's and PM's responsabilities:**
+
+* Keep yourself updated on the internal and public guidelines/information.
+* Provide feedback and/or update any information that you find outdated.
+
 
 ## Program Status
 
-
-
-
-## Customer Learnings and Feedback
-
-
+*Work in progress.*
 
 
 ## Key Performance Metrics
 
+During this project we intend to measure:
+* Number of users we reach with FTA Public GitHub 
+* Number of contributions for Azure public documentation by FTA engineers
+* Usefulness of FTA Delivery Guide for engineers and PMs
+  * Survey for engineers & PMs?
 
 
-FTA Public GitHub 
-* views metrics / reach to more customers
+## Customer Learnings and Feedback
 
-FTA Delivery How-to Internal GitHub 
-* how to evaluate how useful this is to engineers/pms?
+The following customer feedback has been gathered during this period:
+
+*"Hands on and demos is very valuable. Dynamic content is much better than static content, and slideless delivery is perfect in that sense. Ask us after some more sessions."*
