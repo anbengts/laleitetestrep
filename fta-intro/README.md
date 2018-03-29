@@ -19,7 +19,7 @@ We are a team of dedicated engineers providing customers structured guidance to 
 | Dharmesh Bhagat   | San Francisco, USA    |               |
 | Jack Stromberg    | North Dakota, USA     |               |
 
-### EMEA
+#### EMEA
 
 | Name                              | Location              | Timezone      |
 | -------------                     |:---------------------:|:-------------:|
@@ -33,24 +33,20 @@ We are a team of dedicated engineers providing customers structured guidance to 
 |                                   |     | GMT           |
 
 
-### Asia
+#### Asia
 
 
 
-#### Meet the FastTrack for Azure PMs
+### Meet the FastTrack for Azure PMs
 
 
 
 #### Americas
 
-| Name              | Location              | Timezone      |
-| -------------     |:---------------------:|:-------------:|
-| Abhishek Danuka   | San Francisco, USA    |               |
-| Dharmesh Bhagat   | San Francisco, USA    |               |
-| Jack Stromberg    | North Dakota, USA     |               |
 
-### EMEA
+
+#### EMEA
 
 
 
-### Asia
+#### Asia
