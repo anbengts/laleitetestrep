@@ -1,5 +1,7 @@
 # Meet the FastTrack for Azure team!
 
+See all the team [here](../README.md).
+
 ## Lara Leite – FastTrack Engineer  
 
 Lara is a computer engineer specialized in several Azure IaaS and PaaS services, with focus on virtual machines, web applications, storage and networking. 
