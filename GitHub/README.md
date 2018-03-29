@@ -19,7 +19,7 @@
 * FTA WIP Internal GitHub [https://aka.ms/ftawip](https://aka.ms/ftawip)
 * Slideless Deliveries Private GitHub [https://aka.ms/ftaslideless](https://aka.ms/ftaslideless)
    * [Internal brownbag: IaaS fundamentals slide less deliveries](https://microsoft.sharepoint.com/teams/fasttrackforazure/CE/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fteams%2Ffasttrackforazure%2FCE%2FShared%20Documents%2FReadiness%20%26%20Training%20Materials%2FInternal%20brownbag%20series&FolderCTID=0x0120004142D6306BFD4A4E9C0E1C8ABF7FC84D)
-* **Questions?** Email us: laleite@microsoft.com or wim.henderyckx@microsoft.com
+* **Questions?** Contact laleite@microsoft.com or wim.henderyckx@microsoft.com
 
 
 ## Summary
