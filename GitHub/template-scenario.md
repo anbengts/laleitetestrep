@@ -10,7 +10,7 @@ See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackFor
 * [SUB-SCENARIO NAME](SUB-SCENARIO FOLDER/)
 * [SUB-SCENARIO NAME](SUB-SCENARIO FOLDER/)
 * ..
-* *e.g.* [*IaaS Fundamentals*](iaas-fundamentals/)
+* *e.g.* [*IaaS Foundations*](iaas-foundations/)
 
 
  
