@@ -1,6 +1,6 @@
 > *Work in progress.*
 
-# GitHub & Slideless Deliveries Project
+# GitHub Project
 
 ## Table of contents 
 
