@@ -1,4 +1,4 @@
-> This template should be used in the README.md file of each sub-scenario/engagement folder (e.g. https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/README.md). 
+> This template should be used in the README.md file of each sub-scenario/engagement folder (e.g. https://github.com/Azure/fta-azurefoundations/blob/master/iaas-foundations/README.md). 
 
 
 # FastTrack for Azure
@@ -6,7 +6,7 @@
 See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackForAzure) for more information.
 
 
-# IaaS Fundamentals 
+# [SUB-SCENARIO NAME] *e.g. IaaS Foundations* 
 
 ## Reference Resources
 
