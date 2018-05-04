@@ -1,6 +1,6 @@
-> This template should be used for each engagement walkthrough/POC (e.g. https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md). 
+> This template should be used for each engagement walkthrough/POC (e.g. https://github.com/Azure/fta-azurefoundations/blob/master/iaas-foundations/articles/website-on-iaas-http.md). 
 
-# Walkthrough: WALKTHROUGH NAME
+# Walkthrough: [WALKTHROUGH NAME]
 
 ## Table of Contents
 
