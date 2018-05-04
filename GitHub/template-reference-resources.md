@@ -1,4 +1,4 @@
-> This template should be used for each engagement reference resources page (e.g. https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/iaas-fundamentals-reference-resources.md). 
+> This template should be used for each engagement reference resources page (e.g. https://github.com/Azure/fta-azurefoundations/blob/master/iaas-foundations/articles/iaas-foundations-reference-resources.md). 
 
 # [SUB-SCENARIO NAME] - Reference Resources
 
