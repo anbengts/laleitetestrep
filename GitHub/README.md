@@ -63,6 +63,7 @@ This project has the following goals:
 
 During this project we intend to measure:
 * Number of users we reach with FTA Public GitHub 
+    * Source: [FastTrack for Azure GitHub - Traffic reports](https://github.com/Azure/FastTrackForAzure/graphs/traffic)
 * Number of contributions for Azure public documentation by FTA engineers
     * Source: [Azure Docs GitHub](https://github.com/MicrosoftDocs/azure-docs/pulls)
     * Number of pull requests done by FTA engineers
