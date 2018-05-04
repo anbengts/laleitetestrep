@@ -5,7 +5,7 @@
 
 See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackForAzure) for more information.
 
-# [MAIN SCENARIO NAME] *e.g. Azure Fundamentals Scenarios*
+# [MAIN SCENARIO NAME] *e.g. Azure Foundations Scenarios*
 
 * [SUB-SCENARIO NAME](SUB-SCENARIO FOLDER/)
 * [SUB-SCENARIO NAME](SUB-SCENARIO FOLDER/)
