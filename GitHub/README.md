@@ -36,7 +36,7 @@ This project has the following goals:
 
 ## Tasks and Responsabilities
 
-**Scenario Owner's responsabilities:**
+**Scenario Owner's responsibilities:**
 
 * Keep the [scenario and engagement(s) public GitHub pages](https://github.com/Azure/fasttrackforazure) updated according to the following templates:
     * Template Scenario: https://github.com/laraaleite/laleitetestrep/blob/master/GitHub/template-scenario.md 
@@ -48,7 +48,7 @@ This project has the following goals:
     * Template Delivery how-to page: https://github.com/laraaleite/laleitetestrep/blob/master/GitHub/template-deliveryguide.md 
 
 
-**Engineer's and PM's responsabilities:**
+**Engineer's and PM's responsibilities:**
 
 * Keep yourself updated on the internal and public guidelines/information.
 * Provide feedback and/or update any information that you find outdated.
