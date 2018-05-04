@@ -64,15 +64,17 @@ This project has the following goals:
 During this project we intend to measure:
 * Number of users we reach with FTA Public GitHub 
 * Number of contributions for Azure public documentation by FTA engineers
-    * Source: [Azure Docs GitHub](https://github.com/MicrosoftDocs/azure-docs/pulls)
-    * Number of pull requests done by FTA engineers
-* Number of contributions in FTA Public GItHub by non-FTA users
-    * Source: [FastTrack for Azure GitHub](https://github.com/Azure/FastTrackForAzure/pulls)
-    * Number of pull requests done by non-FTA users
 * Usefulness of FTA Delivery Guide for engineers and PMs
-    * Survey for engineers & PMs?
+  * Survey for engineers & PMs?
 
 
 ## Learnings and Feedback
 
+### GitHub
 
+
+### Slideless Deliveries
+
+The following customer feedback has been gathered during this period:
+
+*"Hands on and demos is very valuable. Dynamic content is much better than static content, and slideless delivery is perfect in that sense. Ask us after some more sessions."*
