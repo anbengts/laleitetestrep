@@ -1,4 +1,4 @@
-> This template should be used in the README.md file of each scenario folder (e.g. https://github.com/Azure/fta-azurefundamentals/blob/master/README.md). 
+> This template should be used in the README.md file of each scenario folder (e.g. https://github.com/Azure/fta-azurefoundations/blob/master/README.md). 
 
 
 # FastTrack for Azure
