@@ -71,9 +71,9 @@ During this project we intend to measure:
     * Source: [FastTrack for Azure GitHub](https://github.com/Azure/FastTrackForAzure/pulls)
     * Number of pull requests done by non-FTA users
 * Usefulness of FTA Delivery Guide for engineers and PMs
-    * Survey for engineers & PMs?
+    * Survey for engineers & PMs
 
 
 ## Learnings and Feedback
 
-
+*Work in progress.*
