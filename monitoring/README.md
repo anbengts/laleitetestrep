@@ -148,34 +148,34 @@ https://portal.loganalytics.io/demo#/discover/home
  
 Get started with the Log Analytics Portal  
 https://docs.microsoft.com/en-us/azure/log-analytics/query-language/get-started-analytics-portal  
- 
+  
 Useful operators in Log Analytics queries  
 https://docs.microsoft.com/en-us/azure/log-analytics/query-language/useful-operators  
- 
+  
 SQL to Log Analytics query language cheat sheet  
 https://docs.microsoft.com/en-us/azure/log-analytics/query-language/sql-cheatsheet  
- 
+  
 Splunk to Log Analytics  
 https://docs.microsoft.com/en-us/azure/log-analytics/query-language/splunk-cheatsheet  
- 
+  
 workspace() expression in Log Analytics query  
 https://docs.microsoft.com/en-us/azure/log-analytics/query-language/workspace-expression  
- 
+  
 Perform cross-resource log searches in Log Analytics  
 https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-cross-workspace-search  
- 
+   
 Computer groups in Log Analytics log searches  
 https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-computer-groups  
- 
+   
 Create custom views by using View Designer in Log Analytics  
 https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-view-designer  
-
-Example Queries  
+  
+Example Queries   
 https://github.com/MicrosoftDocs/LogAnalyticsExamples/tree/master/log-analytics    
-
+  
 Data Ingestion Time in Log Analytics  
 https://docs.microsoft.com/en-us/azure/log-analytics/log-analytics-data-ingestion-time  
-
+  
 Supported resources for metric alerts in Azure Monitor  
 https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-near-real-time-metric-alerts  
 
